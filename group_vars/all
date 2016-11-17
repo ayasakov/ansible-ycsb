@@ -1,0 +1,5 @@
+---
+ycsb:
+  dependencies:
+    - 'openjdk-7-jre'
+    - 'openjdk-7-jdk'

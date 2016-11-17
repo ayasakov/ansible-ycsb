@@ -1,0 +1,8 @@
+---
+- name: 'YCSB dependencies Playbook'
+  hosts: localhost
+  sudo: yes
+  user: root
+
+  roles:
+    - java
